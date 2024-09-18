@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.white {
+  width: 400px;
+  height: 350px;
+  display: flex;
+  border: 1px solid black;
+}
