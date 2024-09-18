@@ -8,8 +8,8 @@ body {
 }
 
 .white {
-  width: 400px;
-  height: 350px;
+  width: 25%;
+  height: 50%;
   display: flex;
   border: 1px solid black;
 }
